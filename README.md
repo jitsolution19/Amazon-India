@@ -1,2 +1,2 @@
-# Amazon-India
-Automating Amazon India Using Selenium having output in text file
+# Little Station Project
+Updating inventory with Latest Price
